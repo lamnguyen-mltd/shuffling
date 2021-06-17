@@ -1,4 +1,4 @@
-#--------------------------------------------------------------------------------
+## Code Usage
 
 Our code consists of two folders: Neural_Network and Nonconvex_LR, where you will
 find the full code for the respective problems. 
@@ -16,7 +16,7 @@ the hyper-parameter setting for each of our experiments.
 - Exp 2: Neural Network, diminishing LRs                 (./Neural_Network/run.py)
 - Exp 3: Neural Network, three shuffling schemes         (./Neural_Network/run.py)
 
-#--------------------------------------------------------------------------------
+## Citation
 
 We hope that this program will be useful to others, and we would like to hear about your experience with it. If you found it helpful and are using it within our software please cite the following publication:
 
